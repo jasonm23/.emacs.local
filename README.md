@@ -8,4 +8,4 @@ Symlink this repo into `~/.emacs.d/local` with:
 
 The `init.el` is run after the main `~/.emacs.d/init.el` has finished.
 
-You may also add a `custom.el` which will be used for Emacs Customize settings.
+You may also add a `custom.el` which will be used for Emacs Customize settings. When found, it will replace the settings in [/ocodo/.emacs.d/custom/custom.el](https://github.com/ocodo/.emacs.d/blob/master/custom/custom.el)
