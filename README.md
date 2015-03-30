@@ -1,6 +1,6 @@
 # Emacs Local
 
-This is a local config for use with [`ocodo/.emacs.d`](/ocodo/.emacs.d)
+This is a local config for use with [`ocodo/.emacs.d`](https://github.com/ocodo/.emacs.d)
 
 Symlink this repo into `~/.emacs.d/local` with:
 
